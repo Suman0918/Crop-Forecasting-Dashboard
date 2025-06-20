@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "{   // … your other settings …   \"python.analysis.extraPaths\": [     \"./src\"   ] }",
+        "./backend/src/train_"
+    ]
+}
